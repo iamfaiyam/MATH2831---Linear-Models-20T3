@@ -44,6 +44,8 @@ Requirements summary:
 ## Summary of Results
 
 • Based on statistical analysis we have determined that the best model (AIC = -13.71) comprises of predictors x_5 and x_4. 
+
 • When computing the various sequential variable selection, the model which yielded the smallest AIC value utilised backward selection method. 
+
 • From the multiple linear regression output with predictors x_5 and x_4, the predictor x_4 is not statistically significant with a p-value of 0.0252, compared to x_5 with a p-value of 0.0000149 which is statistically significant. 
     
